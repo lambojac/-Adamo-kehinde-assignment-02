@@ -39,6 +39,7 @@ const assignment = {};
       let elem=arrayOfNumbers[i];
       if(elem %2===0){
         num.push(elem)
+        
       }
     }
     return num.length;
